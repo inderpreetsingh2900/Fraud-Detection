@@ -24,7 +24,7 @@ Build a system to detect fraudulent transactions in real-time, leveraging machin
 ## 🔧 **Installation:**
 1. Clone the repository:
 bash
-https://github.com/vanshugalhotra/fraud-detection
+https://github.com/inderpreetsingh2900/Fraud-Detection
 
     - execute ```setup.sh```
 
